@@ -36,7 +36,7 @@ const allSongs = [
   },
   {
     id: 4,
-    title: "Can we talk",
+    title: "Can We Talk",
     artist: " - Tevin Campbell",
     duration: "4:44",
     src: "./assets/canwetalk.mp3",
@@ -65,7 +65,7 @@ const allSongs = [
   {
     id: 8,
     title: "Into You (feat. Tamia)",
-    artist: " - fabolous",
+    artist: " - Fabolous",
     duration: "4:53",
     src: "./assets/intoyou.mp3",
   },
@@ -74,7 +74,7 @@ const allSongs = [
     title: "Angel of Mine",
     artist: " - Monica",
     duration: "4:10",
-    src: "./assets/angelofmine.mp3",
+    src: "./assets/angelofmin.mp3",
   },
   {
     id: 10,
